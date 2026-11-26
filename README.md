@@ -16,12 +16,15 @@
 
 ### 👨‍💻 Languages
 
-<img src="https://githubusercontent.com" alt="html5" width="40" height="40"/> <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/> <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/> <img src="https://githubusercontent.com" alt="typescript" width="40" height="40"/>
+![HTML5](./assets/html5.svg)
+![CSS3](./assets/css3.svg)
+![JavaScript](./assets/javascript.svg)
+![TypeScript](./assets/typescript.svg)
 
 ### 📚 Frameworks
 
-<img src="https://githubusercontent.com" alt="tailwind" width="40" height="40"/>
+![TailwindCSS](./assets/tailwind.svg)
 
 ### 📚 Library
 
-<img src="https://githubusercontent.com" alt="react" width="40" height="40"/>
+![React](./assets/react.svg)
