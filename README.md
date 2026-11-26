@@ -16,16 +16,12 @@
 
 ### 👨‍💻 Languages
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
+<img src="https://githubusercontent.com" alt="html5" width="40" height="40"/> <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/> <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/> <img src="https://githubusercontent.com" alt="typescript" width="40" height="40"/>
 
 ### 📚 Frameworks
 
-![TailwindCSS](https://shields.io)
+<img src="https://githubusercontent.com" alt="tailwind" width="40" height="40"/>
 
 ### 📚 Library
 
-![React](https://shields.io)
-
+<img src="https://githubusercontent.com" alt="react" width="40" height="40"/>
