@@ -1,8 +1,3 @@
-
-
-
-
-### vias de contacto
 <div align="center">
 
 # Hi there 👋, I'm Eduardo
